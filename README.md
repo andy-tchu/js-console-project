@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/storage-application.git
+   git clone https://github.com/andy-tchu/storage-application.git
    cd storage-application
    ```
 
@@ -92,7 +92,7 @@ Before you begin, ensure you have the following installed:
 
 ### Database Setup
 
-1. Create a `.env` file in the project root and add your MongoDB connection string:
+1. Create a `.env` file in the project root and add your MongoDB connection string like:
 
    ```bash
    DB_CONN=mongodb://localhost:27017/storageApp
